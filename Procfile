@@ -1,1 +1,1 @@
-web: gunicorn react-django-tunr.wsgi --log-file -
+web: gunicorn tunr_react.wsgi --log-file -
